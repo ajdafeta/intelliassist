@@ -1,10 +1,12 @@
-# IntelliAssist 🧠
+# IntelliAssist
 
 An AI-powered executive assistant web application that seamlessly integrates Google services for comprehensive email, calendar, and task management with advanced conversational intelligence.
 
-![IntelliAssist Dashboard](https://via.placeholder.com/800x400/2563eb/ffffff?text=IntelliAssist+Dashboard)
+![Simple Executive Assistant](https://img.shields.io/badge/AI-Claude%20Sonnet%204-blue) ![Python](https://img.shields.io/badge/Python-3.11+-green) ![License](https://img.shields.io/badge/License-Apache2.0-yellow)
 
-## 🌟 Features
+## Features
+
+**Quick Demo**: [Watch here](https://drive.google.com/file/d/1BYuUGN0uL625-S_1WCUtcQhSH9FGHFjj/view?usp=sharing)
 
 ### Email Management
 - **Smart Email Analysis**: AI-powered email prioritization and insights
@@ -36,7 +38,7 @@ An AI-powered executive assistant web application that seamlessly integrates Goo
 - **Quick Actions**: One-click access to common tasks
 - **Visual Indicators**: Color-coded priorities and status markers
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # Clone the repository
@@ -56,7 +58,7 @@ python main.py
 
 Visit `http://localhost:5000` and connect your Google account to get started!
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Backend:**
 - **Python Flask**: Web framework with CORS support
@@ -71,14 +73,14 @@ Visit `http://localhost:5000` and connect your Google account to get started!
 - **Font Awesome**: Professional icon library
 - **Real-time Updates**: Auto-refreshing data every 10 seconds
 
-## 📖 Documentation
+## Documentation
 
-- **[📚 Capabilities](CAPABILITIES.md)**: Comprehensive overview of all features and functionalities
-- **[⚙️ Setup Guide](SETUP.md)**: Detailed installation and configuration instructions
-- **[🔌 API Documentation](API_DOCUMENTATION.md)**: Complete API reference for developers
-- **[🛠 Technical Architecture](replit.md)**: System architecture and technical decisions
+- **[Capabilities](CAPABILITIES.md)**: Comprehensive overview of all features and functionalities
+- **[Setup Guide](SETUP.md)**: Detailed installation and configuration instructions
+- **[API Documentation](API_DOCUMENTATION.md)**: Complete API reference for developers
+- **[Technical Architecture](replit.md)**: System architecture and technical decisions
 
-## 🚀 Quick Setup
+## Quick Setup
 
 ### Prerequisites
 - Python 3.11+
@@ -106,11 +108,7 @@ cp .env.template .env
 python main.py
 ```
 
-**🌐 Visit `http://localhost:5000` and connect your Google account!**
-
-For detailed setup instructions, see [SETUP.md](SETUP.md).
-
-## 💡 Usage Examples
+## Usage Examples
 
 **Natural Language Interactions:**
 - "Schedule a team meeting tomorrow at 2 PM with alice@company.com"
@@ -119,7 +117,7 @@ For detailed setup instructions, see [SETUP.md](SETUP.md).
 - "Send an email to john@company.com about the project update"
 - "When is my next free time?"
 
-## 🏗 Architecture
+## Architecture
 
 ### Core Components
 - **GoogleAuthManager**: Secure OAuth authentication flow
@@ -136,14 +134,14 @@ For detailed setup instructions, see [SETUP.md](SETUP.md).
 - **Auth**: Google OAuth 2.0
 - **Frontend**: Modern HTML5/CSS3/JavaScript
 
-## 🔒 Security
+## Security
 
 - **Secure Authentication**: Google OAuth 2.0 with encrypted token storage
 - **Environment Protection**: All API keys managed via environment variables
 - **Session Security**: Configurable session secrets and timeouts
 - **Data Privacy**: No local data storage, direct API integration only
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Here's how to get started:
 
@@ -159,21 +157,13 @@ We welcome contributions! Here's how to get started:
 - Update documentation for API changes
 - Ensure all tests pass before submitting
 
-## 📝 License
+## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
 
-## 🙋‍♂️ Support & Community
+## Roadmap
 
-- **🐛 Bug Reports**: [Open an issue](https://github.com/yourusername/intelliassist/issues)
-- **💡 Feature Requests**: [Request a feature](https://github.com/yourusername/intelliassist/issues)
-- **❓ Questions**: [Discussions](https://github.com/yourusername/intelliassist/discussions)
-- **📧 Contact**: [Email us](mailto:support@intelliassist.com)
-
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/intelliassist&type=Date)](https://star-history.com/#yourusername/intelliassist&Date)
-
----
-
-**Made with ❤️ by the IntelliAssist team**
+- Evaluation and Monitoring
+- Improve chat intelligence
+- Multi-language support
+- Voice integration
