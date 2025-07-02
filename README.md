@@ -10,14 +10,12 @@ An AI-powered executive assistant web application that seamlessly integrates Goo
 
 ### Email Management
 - **Smart Email Analysis**: AI-powered email prioritization and insights
-- **Natural Language Email Composition**: Send emails by describing what you want to say
-- **Unread Email Monitoring**: Real-time tracking of important messages
 - **Email Actions**: Delete, archive, and manage emails through conversation
 
 ### Calendar Intelligence
 - **Conversational Meeting Scheduling**: "Schedule a team meeting tomorrow at 2 PM"
 - **Smart Time Finding**: Automatically find free slots in your schedule
-- **Meeting Management**: View, modify, and delete calendar events
+- **Meeting Management**: View and delete calendar events
 - **Today's Schedule**: Quick access to current day's meetings with full details
 
 ### Task Management
@@ -27,7 +25,6 @@ An AI-powered executive assistant web application that seamlessly integrates Goo
 - **Priority-based Organization**: Visual indicators for task importance
 
 ### Conversational AI
-- **Context-Aware Conversations**: Remembers previous interactions
 - **Natural Language Processing**: Powered by Claude 4.0 Sonnet
 - **Smart Suggestions**: Contextual recommendations based on your schedule
 - **Multi-turn Dialogues**: Follow-up questions and clarifications
@@ -35,7 +32,6 @@ An AI-powered executive assistant web application that seamlessly integrates Goo
 ### Dashboard & UI
 - **Real-time Updates**: Live data refresh every 10 seconds
 - **Modern Interface**: Clean, responsive design with intuitive navigation
-- **Quick Actions**: One-click access to common tasks
 - **Visual Indicators**: Color-coded priorities and status markers
 
 ## Quick Start
