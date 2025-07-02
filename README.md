@@ -56,8 +56,6 @@ cp .env.template .env
 python main.py
 ```
 
-Visit `http://localhost:5000` and connect your Google account to get started!
-
 ## Tech Stack
 
 **Backend:**
