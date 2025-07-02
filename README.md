@@ -9,7 +9,7 @@ An AI-powered executive assistant web application that seamlessly integrates Goo
 **Quick Demo**: [Watch here](https://drive.google.com/file/d/1BYuUGN0uL625-S_1WCUtcQhSH9FGHFjj/view?usp=sharing)
 
 ### Email Management
-- **Smart Email Analysis**: AI-powered email prioritization and insights
+- **Smart Email Analysis**: AI-powered email prioritsation and insights
 - **Email Actions**: Delete, archive, and manage emails through conversation
 
 ### Calendar Intelligence
